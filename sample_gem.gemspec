@@ -3,6 +3,7 @@ Gem::Specification.new do |s|
     s.version = "0.0.0"
     s.date = %q{2011-09-29}
     s.summary = %q{sample_gem is the best}
+    s.authors = "atest"
     s.files = [
       "lib/sample_gem.rb"
     ]
